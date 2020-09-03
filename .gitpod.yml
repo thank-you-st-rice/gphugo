@@ -2,5 +2,5 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: bash echo init
-    command: bash echo start
+  - init: /usr/bin/echo init
+    command: /usr/bin/echo command
