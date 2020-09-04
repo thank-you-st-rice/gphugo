@@ -8,5 +8,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- gphugo/content/post/a-second-post-from-forestry.io.md
