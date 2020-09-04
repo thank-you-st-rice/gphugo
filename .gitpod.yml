@@ -3,7 +3,7 @@ image:
 
 tasks:
   - init: hugo version
-    command: cd gphugo && hugo server --baseUrl $(gp url 1313) --appendPort=false
+    command: hugo server --baseUrl $(gp url 1313) --appendPort=false -s gphugo
 
 ports:
   - port: 1313
