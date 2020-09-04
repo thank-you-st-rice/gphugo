@@ -23,5 +23,5 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv/gphugo"
-  instant_preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  instant_preview_command: hugo -E -F -D -d public
 version: 0.71.1
