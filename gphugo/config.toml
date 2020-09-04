@@ -5,7 +5,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -18,11 +18,11 @@ enableRobotsTXT = true
   favicon = ""
   site_logo = ""
   description = "A blog while I work"
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
+  facebook = "https://www.facebook.com/ryanjbartley"
+  twitter = "https://twitter.com/RyanJBartley"
+  instagram = "https://www.instagram.com/ryanjbartley/"
+  youtube = "https://www.youtube.com/c/RyanBartleyDude"
+  github = "https://github.com/ryanjbartley/"
   gitlab = ""
   linkedin = ""
   mastodon = ""
