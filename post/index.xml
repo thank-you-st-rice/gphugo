@@ -29,5 +29,15 @@
       <description>This is just a first post to make sure everything is working as expected</description>
     </item>
     
+    <item>
+      <title>My first post from Forestry.io</title>
+      <link>http://ryanjbartley.github.io/gphugo/post/my-first-post-from-forestry.io/</link>
+      <pubDate>Thu, 03 Sep 2020 07:00:00 +0000</pubDate>
+      
+      <guid>http://ryanjbartley.github.io/gphugo/post/my-first-post-from-forestry.io/</guid>
+      <description>This is my first attempt to post from Forestry.io with the gitpod build
+I guess I&amp;rsquo;m about to see how it works</description>
+    </item>
+    
   </channel>
 </rss>
