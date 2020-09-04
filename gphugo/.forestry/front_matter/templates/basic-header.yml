@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- gphugo/content/post/a-second-post-from-forestry.io.md
 - gphugo/content/post/my-first-post-from-forestry.io.md
