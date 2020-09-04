@@ -2,7 +2,7 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: hugo version
+  - init: git submodule update --init
     command: hugo server --baseUrl $(gp url 1313) --appendPort=false -s gphugo
 
 ports:
