@@ -1,4 +1,36 @@
 ---
 label: Ananke Post
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: A title for your post
+- name: date
+  type: datetime
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
+  description: The date of publication
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Relevant tags for your content
+- name: featured_image
+  type: text
+  config:
+    required: false
+  label: Featured Image
+  description: The featured image for your post in string format
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: A description of the post
