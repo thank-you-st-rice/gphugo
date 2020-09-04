@@ -34,3 +34,5 @@ fields:
     required: false
   label: Description
   description: A description of the post
+pages:
+- gphugo/content/post/my-first-live-post-sort-of.md
