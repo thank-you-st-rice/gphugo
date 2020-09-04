@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gitpod Hugo Pipeline Development Blog</title>
+    <link>http://ryanjbartley.github.io/gphugo/</link>
+    <description>Recent content on Gitpod Hugo Pipeline Development Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 00:03:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ryanjbartley.github.io/gphugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test #2</title>
+      <link>http://ryanjbartley.github.io/gphugo/posts/round2/</link>
+      <pubDate>Fri, 04 Sep 2020 00:03:27 +0000</pubDate>
+      
+      <guid>http://ryanjbartley.github.io/gphugo/posts/round2/</guid>
+      <description>It looks like a basic dev server is working, so now I just merge this branch to master and start resolving the github side of things</description>
+    </item>
+    
+    <item>
+      <title>A Test Post</title>
+      <link>http://ryanjbartley.github.io/gphugo/posts/my1st/</link>
+      <pubDate>Thu, 03 Sep 2020 22:45:50 +0000</pubDate>
+      
+      <guid>http://ryanjbartley.github.io/gphugo/posts/my1st/</guid>
+      <description>This is just a first post to make sure everything is working as expected</description>
+    </item>
+    
+  </channel>
+</rss>
