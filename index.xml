@@ -6,46 +6,18 @@
     <description>Recent content in Learning Gitpod (and other stuff) on Gitpod Hugo Pipeline Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 00:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 18:10:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ryanjbartley.github.io/gphugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test #2</title>
-      <link>http://ryanjbartley.github.io/gphugo/post/round2/</link>
-      <pubDate>Fri, 04 Sep 2020 00:03:27 +0000</pubDate>
+      <title>My first live post! (sort of)</title>
+      <link>http://ryanjbartley.github.io/gphugo/post/my-first-live-post-sort-of/</link>
+      <pubDate>Fri, 04 Sep 2020 18:10:00 +0000</pubDate>
       
-      <guid>http://ryanjbartley.github.io/gphugo/post/round2/</guid>
-      <description>It looks like a basic dev server is working, so now I just merge this branch to master and start resolving the github side of things</description>
-    </item>
-    
-    <item>
-      <title>A Test Post</title>
-      <link>http://ryanjbartley.github.io/gphugo/post/1sttest/</link>
-      <pubDate>Thu, 03 Sep 2020 22:45:50 +0000</pubDate>
-      
-      <guid>http://ryanjbartley.github.io/gphugo/post/1sttest/</guid>
-      <description>This is just a first post to make sure everything is working as expected</description>
-    </item>
-    
-    <item>
-      <title>A second post from Forestry.io</title>
-      <link>http://ryanjbartley.github.io/gphugo/post/a-second-post-from-forestry.io/</link>
-      <pubDate>Thu, 03 Sep 2020 07:00:00 +0000</pubDate>
-      
-      <guid>http://ryanjbartley.github.io/gphugo/post/a-second-post-from-forestry.io/</guid>
-      <description>This will hit the page shortly after the first of these posts, if all goes well</description>
-    </item>
-    
-    <item>
-      <title>My first post from Forestry.io</title>
-      <link>http://ryanjbartley.github.io/gphugo/post/my-first-post-from-forestry.io/</link>
-      <pubDate>Thu, 03 Sep 2020 07:00:00 +0000</pubDate>
-      
-      <guid>http://ryanjbartley.github.io/gphugo/post/my-first-post-from-forestry.io/</guid>
-      <description>This is my first attempt to post from Forestry.io with the gitpod build
-I guess I&amp;rsquo;m about to see how it works</description>
+      <guid>http://ryanjbartley.github.io/gphugo/post/my-first-live-post-sort-of/</guid>
+      <description>I would love to say that I have been diligently working on this post for days. In reality, I prototyped the page last night and I&amp;rsquo;m basically building this site specifically to test a method for quickly building unique static sites. I will be updating the site as I go, and it will have more and prettier functionality soon, but for now, UNDER CONSTRUCTION</description>
     </item>
     
     <item>

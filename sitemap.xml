@@ -3,36 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ryanjbartley.github.io/gphugo/tags/blog/</loc>
+    <lastmod>2020-09-04T18:10:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanjbartley.github.io/gphugo/tags/dev/</loc>
+    <lastmod>2020-09-04T18:10:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ryanjbartley.github.io/gphugo/</loc>
-    <lastmod>2020-09-04T00:03:27+00:00</lastmod>
+    <lastmod>2020-09-04T18:10:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ryanjbartley.github.io/gphugo/post/round2/</loc>
-    <lastmod>2020-09-04T00:03:27+00:00</lastmod>
+    <loc>http://ryanjbartley.github.io/gphugo/post/my-first-live-post-sort-of/</loc>
+    <lastmod>2020-09-04T18:10:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ryanjbartley.github.io/gphugo/post/1sttest/</loc>
-    <lastmod>2020-09-03T22:45:50+00:00</lastmod>
+    <loc>http://ryanjbartley.github.io/gphugo/tags/ops/</loc>
+    <lastmod>2020-09-04T18:10:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ryanjbartley.github.io/gphugo/post/a-second-post-from-forestry.io/</loc>
-    <lastmod>2020-09-03T07:00:00+00:00</lastmod>
+    <loc>http://ryanjbartley.github.io/gphugo/tags/</loc>
+    <lastmod>2020-09-04T18:10:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ryanjbartley.github.io/gphugo/post/my-first-post-from-forestry.io/</loc>
-    <lastmod>2020-09-03T07:00:00+00:00</lastmod>
+    <loc>http://ryanjbartley.github.io/gphugo/tags/updates/</loc>
+    <lastmod>2020-09-04T18:10:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -58,12 +72,6 @@
   
   <url>
     <loc>http://ryanjbartley.github.io/gphugo/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ryanjbartley.github.io/gphugo/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
