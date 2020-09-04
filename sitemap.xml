@@ -5,29 +5,53 @@
   <url>
     <loc>http://ryanjbartley.github.io/gphugo/</loc>
     <lastmod>2020-09-04T00:03:27+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ryanjbartley.github.io/gphugo/posts/</loc>
+    <loc>http://ryanjbartley.github.io/gphugo/post/round2/</loc>
     <lastmod>2020-09-04T00:03:27+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ryanjbartley.github.io/gphugo/posts/round2/</loc>
-    <lastmod>2020-09-04T00:03:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ryanjbartley.github.io/gphugo/posts/my1st/</loc>
+    <loc>http://ryanjbartley.github.io/gphugo/post/1sttest/</loc>
     <lastmod>2020-09-03T22:45:50+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanjbartley.github.io/gphugo/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanjbartley.github.io/gphugo/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ryanjbartley.github.io/gphugo/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryanjbartley.github.io/gphugo/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ryanjbartley.github.io/gphugo/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
