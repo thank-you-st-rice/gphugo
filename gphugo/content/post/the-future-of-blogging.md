@@ -7,6 +7,8 @@ tags = ["Dev", "Ops", "Forestry.io", "Gitpod.io", "Github.com"]
 title = "The Future of Blogging!"
 
 +++
+Featured Photo by [Pero Kalimero](https://unsplash.com/@pericakalimerica?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cloud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 In my last post, I mentioned that I'm trying some new things and I am going to use this post to elaborate a bit on what those things are and why I think this is the best place to be spending my time.
 
 First a bit about options for running a website:
