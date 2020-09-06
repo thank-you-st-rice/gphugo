@@ -2,7 +2,7 @@
 date = 2020-09-06T23:20:00Z
 description = "A little more about what I'm doing with this blog and why"
 draft = true
-featured_image = "images/henry-dick-fjn7zfuvm8w-unsplash.jpg"
+featured_image = "images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg"
 tags = ["Dev", "Ops", "Forestry.io", "Gitpod.io", "Github.com"]
 title = "The Future of Blogging!"
 
