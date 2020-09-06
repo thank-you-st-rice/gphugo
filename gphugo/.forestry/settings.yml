@@ -11,7 +11,7 @@ sections:
   match: "**/*"
   exclude: _index.md
 upload_dir: gphugo/static/images
-public_path: "../../images"
+public_path: "/gphugo/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
