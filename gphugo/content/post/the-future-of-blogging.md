@@ -18,7 +18,7 @@ There's really no point in trying to find a website that does everything you wan
 
 In steps the cloud.
 
-![](/images/henry-dick-fjn7zfuvm8w-unsplash.jpg)
+![](images/henry-dick-fjn7zfuvm8w-unsplash.jpg)
 
 (Photo by [Henry Dick](https://unsplash.com/@henry_photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cloud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
@@ -40,7 +40,7 @@ Second, Gitpod -
 
 Gitpod is the real cornerstone of the development work. It's gthe environment in which I work. Traditionally, your environment was a closed system like a computer that was focused on storing information local and secure. That doesn't reflect the current operating norms of the cloud, and secrets (both the tech term and the literal result of privacy) are heading the way of the dodo. Gitpod allows me to import everything you see in the Github repository and work in a fresh environment custom built to develop the exact repository it is launched from. Also, recently became open source, which is a huge turn-on.
 
-Third, Hugo - 
+Third, Hugo -
 
 [In their own words](https://gohugo.io/about/ "Hugo About")
 
