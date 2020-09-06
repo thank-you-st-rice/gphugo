@@ -24,3 +24,9 @@ In steps the cloud.
 (Photo by [Henry Dick](https://unsplash.com/@henry_photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cloud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
 I have been focused for several years on updating my coding skills for the cloud, often frustrated by how not-native most tools for cloud dev are, but time flies when computing power is doubling every 18 months.
+
+After a short brain break to keep my brain from breaking, I got back on the horse and discovered the horse is now a luxury sedan. I want to talk a bit about the tools I'm using. Some newer, some older, but all getting better and more tightly integrated with an ecosystem designed to keep your work in the cloud, and save the local computing for fun.
+
+First up, Github -
+
+[https://github.com/about](https://github.com/about "In their own words.")
