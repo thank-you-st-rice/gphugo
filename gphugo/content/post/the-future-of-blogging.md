@@ -18,7 +18,7 @@ There's really no point in trying to find a website that does everything you wan
 
 In steps the cloud.
 
-![](images/henry-dick-fjn7zfuvm8w-unsplash.jpg)
+![](/gphugo/images/henry-dick-fjn7zfuvm8w-unsplash.jpg)
 
 (Photo by [Henry Dick](https://unsplash.com/@henry_photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cloud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
