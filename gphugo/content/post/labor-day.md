@@ -1,7 +1,6 @@
 +++
 date = 2020-09-08T00:00:00Z
 description = "It's actually a day for NOT labor"
-draft = true
 featured_image = ""
 tags = ["Personal", "Dev", "Ops"]
 title = "Labor Day"
