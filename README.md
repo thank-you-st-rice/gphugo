@@ -3,14 +3,21 @@
 # [gphugo](https://www.github.com/ryanjbartley/gphugo)
 
 ## **Development Blog**
-Here's some text about this development blog
+What you are looking at is, first and foremost, a development blog. 
+More than that, it's a personal motivator. I struggle to maintain 
+my productivity when a project slows down, so I hope that by
+combining the process of development with content creation I am
+able to keep this project in my sights when shiny new projects arrive.
 
 ## **Free, Self-Deploying Website**
-Here's some text about this Website
+Now, the cool part. This codebase, beyond operating my personal blog,
+can be cloned into a new repository in [Github](https://github.com) 
+giving you the same site, ready to start developing to suit your needs,
+in under 5 minutes. There is work to do after that, if you want to
+make sure it's uniquely yours, but that's the fun part of open source,
+we are all developers!
 
 ## ***Own Your Site Now***
-Here's the bulk of the labor. I make a list of steps to reproduce this site, and then make that list as short as possible
-
 Here's how:
 1. Sign up for a github account
 > Click on this link to [Sign up for Github](https://github.com/join)  
