@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-10-08T03:00:00Z
-draft = true
 excerpt = "Finally something that's not a cloud picture"
 hero = "images/ashkan-forouzani-m0l9nbcivuk-unsplash.jpg"
 title = "News, if you can read it"
