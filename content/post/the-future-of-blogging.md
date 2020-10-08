@@ -1,7 +1,7 @@
 ---
 title: The Future of Blogging!
 date: 2020-09-06T23:20:00Z
-hero: "/images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg"
+hero: "images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg"
 excerpt: A little more about what I'm doing with this blog and why
 authors:
 - ryanjbartley
@@ -20,7 +20,7 @@ There's really no point in trying to find a website that does everything you wan
 
 In steps the cloud.
 
-![](/images/henry-dick-fjn7zfuvm8w-unsplash.jpg)
+![](images/henry-dick-fjn7zfuvm8w-unsplash.jpg)
 
 (Photo by [Henry Dick](https://unsplash.com/@henry_photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cloud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
