@@ -1,0 +1,28 @@
+baseURL = "https://ryanjbartley.github.io/gphugo/"
+languageCode = "en-us"
+title = "Gitpod Hugo Pipeline Development Blog"
+theme = "novela"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "A blog while I work"
+  facebook = "https://www.facebook.com/ryanjbartley"
+  twitter = "https://twitter.com/RyanJBartley"
+  instagram = "https://www.instagram.com/ryanjbartley/"
+  youtube = "https://www.youtube.com/c/RyanBartleyDude"
+  github = "https://github.com/ryanjbartley/"
+
+[taxonomies]
+  author = "authors"
