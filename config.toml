@@ -23,6 +23,8 @@ enableRobotsTXT = true
   instagram = "https://www.instagram.com/ryanjbartley/"
   youtube = "https://www.youtube.com/c/RyanBartleyDude"
   github = "https://github.com/ryanjbartley/"
+  [params.share]
+  facebook = true
 
 [taxonomies]
   author = "authors"
