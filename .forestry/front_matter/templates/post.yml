@@ -31,4 +31,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/dark-theme-and-new-logo.md
 - content/post/news-if-you-can-read-it.md
