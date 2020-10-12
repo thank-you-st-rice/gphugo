@@ -1,14 +1,14 @@
 DefaultContentLanguage = "en"
 Paginate = 6
 SectionPagesMenu = "main"
-baseURL = "https://ryanjbartley.github.io/gphugo/"
+baseURL = "https://thank-you-st-rice.github.io/gphugo/"
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "novela"
-title = "Developing Github Pages with Hugo and Forestry"
+title = "Thank You, St. Rice"
 [params]
-description = "A blog while I work"
+description = "A free blog for you to clone and have your own"
 favicon = ""
 site_logo = ""
 [params.share]
