@@ -26,3 +26,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
+        env: 
+          HUGO_GOOGLEANALYTICS: ${{ secrets.HUGO_GOOGLEANALYTICS}}
