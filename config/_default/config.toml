@@ -18,11 +18,6 @@ enableRobotsTXT = true
   favicon = ""
   site_logo = ""
   description = "A blog while I work"
-  facebook = "https://www.facebook.com/ryanjbartley"
-  twitter = "https://twitter.com/RyanJBartley"
-  instagram = "https://www.instagram.com/ryanjbartley/"
-  youtube = "https://www.youtube.com/c/RyanBartleyDude"
-  github = "https://github.com/ryanjbartley/"
   [params.share]
   facebook = true
 
