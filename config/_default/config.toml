@@ -1,25 +1,21 @@
-baseURL = "https://ryanjbartley.github.io/gphugo/"
-languageCode = "en-us"
-title = "Gitpod Hugo Pipeline Development Blog"
-theme = "novela"
-
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
 Paginate = 6
-googleAnalytics = ""
+SectionPagesMenu = "main"
+baseURL = "https://ryanjbartley.github.io/gphugo/"
 enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+googleAnalytics = ""
+languageCode = "en-us"
+theme = "novela"
+title = "Developing Github Pages with Hugo and Forestry"
 [params]
-  favicon = ""
-  site_logo = ""
-  description = "A blog while I work"
-  [params.share]
-  facebook = true
-
+description = "A blog while I work"
+favicon = ""
+site_logo = ""
+[params.share]
+facebook = true
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
 [taxonomies]
-  author = "authors"
+author = "authors"
