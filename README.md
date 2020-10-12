@@ -34,4 +34,8 @@ What this means technically may be a little complex if you're just getting start
 Github pages can be enabled by clicking on `Settings` in the same navbar and scrolling down until you see the subsection labeled `Github Pages`  
 You will want to select the `gh-pages` branch and `root` folder
 
-That should have you ready to start coding the site to make it yours. I'll be adding more info about that as I finish the refactor.
+4. If you would like to enable Google Anaytics
+> Create a `Github Secret` called HUGO_GOOGLEANALYTICS and set your `Google Tracking ID` as the content  
+You will also need to replace my google verification file with yours so Google can verify you own your site
+
+That should have you ready to edit the basic details and start blogging with [Forestry.io](https://forestry.io)
