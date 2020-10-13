@@ -2,6 +2,7 @@ baseURL = "https://ryanjbartley.github.io/gphugo/"
 languageCode = "en-us"
 title = "Gitpod Hugo Pipeline Development Blog"
 theme = "novela"
+relativeURLs = true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
