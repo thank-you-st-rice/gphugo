@@ -3,14 +3,11 @@ Paginate = 6
 SectionPagesMenu = "main"
 baseURL = "https://thank-you-st-rice.github.io/gphugo/"
 enableRobotsTXT = true
-googleAnalytics = ""
 languageCode = "en-us"
 theme = "novela"
 title = "Thank You, St. Rice"
 [params]
 description = "A free blog for you to clone and have your own"
-favicon = ""
-site_logo = ""
 [params.share]
 facebook = true
 [sitemap]
