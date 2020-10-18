@@ -6,7 +6,6 @@ theme = "novela"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6
-googleAnalytics = ""
 enableRobotsTXT = true
 
 [sitemap]
@@ -15,8 +14,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  site_logo = ""
   description = "A blog while I work"
   [params.share]
   facebook = true

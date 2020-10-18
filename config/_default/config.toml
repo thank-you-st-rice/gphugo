@@ -3,14 +3,11 @@ Paginate = 6
 SectionPagesMenu = "main"
 baseURL = "https://ryanjbartley.github.io/gphugo/"
 enableRobotsTXT = true
-googleAnalytics = ""
 languageCode = "en-us"
 theme = "novela"
 title = "Developing Github Pages with Hugo and Forestry"
 [params]
 description = "A blog while I work"
-favicon = ""
-site_logo = ""
 [params.share]
 facebook = true
 [sitemap]
@@ -19,3 +16,4 @@ filename = "sitemap.xml"
 priority = 0.5
 [taxonomies]
 author = "authors"
+
