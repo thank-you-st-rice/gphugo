@@ -1,7 +1,7 @@
 ---
 title: My first live post! (sort of)
 date: 2020-09-04T18:10:00.000+00:00
-hero: images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg
+hero: images/pero-kalimero-9bjrglqoiuk-unsplash-1900x.jpg
 excerpt: A first run of the new process!
 authors:
 - ryanjbartley

@@ -2,7 +2,7 @@
 authors = ["ryanjbartley"]
 date = 2020-10-11T00:50:00Z
 excerpt = "I made myself a logo, and since I like the dark theme, it's the default now"
-hero = "images/vital-sinkevich-lakq3i-xn84-unsplash.jpg"
+hero = "images/vital-sinkevich-lakq3i-xn84-unsplash900x.jpg"
 alttext = "A dark forest with a path leading in"
 title = "Dark theme and New Logo"
 

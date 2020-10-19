@@ -3,7 +3,7 @@ alttext = "A brick wall painted with a puzzle with multicolored pieces"
 authors = ["ryanjbartley"]
 date = 2020-10-08T03:00:00Z
 excerpt = "Finally something that's not a cloud picture"
-hero = "images/ashkan-forouzani-m0l9nbcivuk-unsplash.jpg"
+hero = "images/ashkan-forouzani-m0l9nbcivuk-unsplash900x.jpg"
 title = "News, if you can read it"
 
 +++

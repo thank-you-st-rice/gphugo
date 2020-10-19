@@ -1,7 +1,7 @@
 ---
 title: The New Project
 date: 2020-09-22T01:00:00.000+00:00
-hero: images/henry-dick-fjn7zfuvm8w-unsplash.jpg
+hero: images/henry-dick-fjn7zfuvm8w-unsplash900x.jpg
 excerpt: I have something else in the works
 authors:
 - ryanjbartley
