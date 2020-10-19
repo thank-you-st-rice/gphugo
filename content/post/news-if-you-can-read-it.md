@@ -1,4 +1,5 @@
 +++
+alttext = "A brick wall painted with a puzzle with multicolored pieces"
 authors = ["ryanjbartley"]
 date = 2020-10-08T03:00:00Z
 excerpt = "Finally something that's not a cloud picture"
