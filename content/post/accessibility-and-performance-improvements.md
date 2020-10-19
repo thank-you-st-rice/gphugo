@@ -2,7 +2,6 @@
 alttext = "A tiny pug in a sweater wearing human-sized glasses"
 authors = ["ryanjbartley"]
 date = 2020-10-19T03:00:00Z
-draft = true
 excerpt = "Images will now have alternate text for screen readers"
 hero = "images/charles-deluvio-poua8xay514-unsplash.jpg"
 title = "Accessibility and Performance Improvements!"
