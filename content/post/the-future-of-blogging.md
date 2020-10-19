@@ -1,13 +1,13 @@
 ---
 title: The Future of Blogging!
-date: 2020-09-06T23:20:00Z
-hero: "images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg"
+date: 2020-09-06T23:20:00.000+00:00
+hero: images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg
 excerpt: A little more about what I'm doing with this blog and why
 authors:
 - ryanjbartley
+alttext: Puffy clouds viewed from above
 
 ---
-
 Featured Photo by [Pero Kalimero](https://unsplash.com/@pericakalimerica?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cloud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 In my last post, I mentioned that I'm trying some new things and I am going to use this post to elaborate a bit on what those things are and why I think this is the best place to be spending my time.
