@@ -1,14 +1,17 @@
 ---
 title: Labor Day
-date: 2020-09-08T00:00:00Z
-hero: "images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg"
+date: 2020-09-08T00:00:00.000+00:00
+hero: images/pero-kalimero-9bjrglqoiuk-unsplash-1.jpg
 excerpt: It's actually a day for NOT labor
-tags: ["Personal", "Dev", "Ops"]
+tags:
+- Personal
+- Dev
+- Ops
 authors:
 - ryanjbartley
+alttext: Puffy clouds viewed from above
 
 ---
-
 No real post today, because it's a day off, but I need to test posting from my phone, so here we are.
 
 Have another cloud picture, cause.

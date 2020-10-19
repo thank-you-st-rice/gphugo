@@ -29,7 +29,7 @@ fields:
 - name: alttext
   type: text
   config:
-    default: "Featured Image with no description - Contact publisher to resolve"
+    default: Featured Image with no description - Contact publisher to resolve
   label: Hero Alt Text
 - name: authors
   type: tag_list
