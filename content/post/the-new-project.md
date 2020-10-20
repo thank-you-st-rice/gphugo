@@ -1,10 +1,11 @@
 ---
 title: The New Project
 date: 2020-09-22T01:00:00.000+00:00
-hero: "images/henry-dick-fjn7zfuvm8w-unsplash.jpg"
+hero: images/henry-dick-fjn7zfuvm8w-unsplash900x.jpg
 excerpt: I have something else in the works
 authors:
 - ryanjbartley
+alttext: A lone cloud centered over its reflection in a body of water
 
 ---
 I know it looks like I haven't really been working on this blog, but that's just because I haven't. I haven't given up on it, but it is extremely stable at the moment and I have another project I'm working on.
